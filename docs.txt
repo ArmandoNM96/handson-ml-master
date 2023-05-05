@@ -1,1 +1,1 @@
-Este es un archivo para la rama A.
+Este es un archivo para la rama B.
