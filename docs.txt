@@ -1,1 +1,1 @@
-Este es un archivo para la rama A.
+Texto de prueba rama A.
