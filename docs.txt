@@ -1,1 +1,1 @@
-Texto de prueba rama A.
+Texto de prueba para la rama A y Rama B.
